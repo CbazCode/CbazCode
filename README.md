@@ -1,4 +1,12 @@
-### Hi there 👋 I'm Sebastian Asis 😄
+###               Hi there 👋 I'm Sebastian Asis 😄
+      Bachelor Engineer and a passionate Fullstack JS Developer
+      
+      
+
+💬 Ask me about whatever you want about web develop. I will try answer!
+
+📫 How to reach me sasisromero10@gmail.com
+
 
 <!--
 **CbasDev/CbasDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
