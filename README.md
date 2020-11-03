@@ -10,7 +10,9 @@
 
 ⚡ Fun fact I love play soccer or any sport ⚽ so much!
 
+##Skills:
 
+https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=flat-square&logo=javascript&logoColor=black&labelColor=black?link=http://left&link=https://developer.mozilla.org/es/docs/Web/JavaScript/Guide
 
 <!--
 **CbasDev/CbasDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
