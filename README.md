@@ -1,11 +1,15 @@
 ##              Hi there 👋 I'm Sebastian Asis 😄
-####       Bachelor Engineer and a passionate Fullstack JS Developer
+####  Software developer and a passionate Fullstack JS Developer
       
       
+🌱 I’m currently learning React and NodeJS ⚛️
 
 💬 Ask me about whatever you want about web develop. I will try answer!
 
 📫 How to reach me sasisromero10@gmail.com
+
+⚡ Fun fact I love play soccer or any sport ⚽ so much!
+
 
 
 <!--
@@ -14,7 +18,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
