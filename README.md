@@ -1,5 +1,5 @@
 ###               Hi there 👋 I'm Sebastian Asis 😄
-      Bachelor Engineer and a passionate Fullstack JS Developer
+#       Bachelor Engineer and a passionate Fullstack JS Developer
       
       
 
