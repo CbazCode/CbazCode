@@ -4,7 +4,7 @@
 <h3 align = 'center'>Software developer and a passionate Fullstack JS Developer</h3>
       
       
-🌱 I’m currently learning React and NodeJS ⚛️
+🌱 I’m currently learning NextJS and NodeJS ⚛️
 
 💬 Ask me about whatever you want about web develop. I will try answer!
 
